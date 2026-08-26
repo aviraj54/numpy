@@ -17,4 +17,6 @@ a_3d=np.array([[[1,2],[3,2]]])
 print(a_3d.ndim)
 
 ##datatype dtype of elements of data
-print(a_2d.dtype)#if one also becomes float it returns float
+print(a_2d.dtype)#if one also becomes float it returns matching
+
+
