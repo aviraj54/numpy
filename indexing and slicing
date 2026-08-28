@@ -8,3 +8,4 @@ print(arr[::2])#every next two index
 print(arr[::-1])#every -1 next its not like slicing
 #fancy indexing
 print(arr[0:3:2])##like for loop(initial increment final)
+#stop at 3 means final value is 2

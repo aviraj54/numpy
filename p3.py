@@ -18,5 +18,3 @@ print(a_3d.ndim)
 
 ##datatype dtype of elements of data
 print(a_2d.dtype)#if one also becomes float it returns matching
-
-
